@@ -2,7 +2,7 @@
 
 ## Description
 
-5naxTKN is an ERC-20 token developed using Hardhat, Solidity, and deployed on the Sepolia Testnet. This project utilizes technologies like Node.js and npm, and it's developed within the Visual Studio Code environment. It represents a blockchain-based token with [specific functionality or purpose of the token].
+5naxTKN is an ERC-20 token developed using Hardhat, Solidity, and deployed on the Sepolia Testnet. This project utilizes technologies like Node.js and npm, and it's developed within the Visual Studio Code environment. It represents a blockchain-based token with Miniting and Burning functionality.
 
 ## Usage
 
