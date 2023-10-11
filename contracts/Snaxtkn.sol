@@ -61,7 +61,6 @@ contract SSnaxtkn {
     
     // Function to create new tokens and add them to an address's balance 
     function mint(address to, uint256 value) public {
-        // Ensure only the contract deployer can mint
         balances[to] += value;  // Add the new tokens to the recipient’s balance
         emit Transfer(address(0), to, value);  // Emit Transfer event from address(0) to signify minting
     }
